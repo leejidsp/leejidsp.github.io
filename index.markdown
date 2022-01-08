@@ -17,9 +17,10 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 ---
 demo
 
-![Sample Audio](leejidsp.github.io/assets/demo_samples/118_wo_hpss.mp3)
+![Demo1](./assets/demo_samples/118_wo_hpss.wav)
 
 
+<audio ref='themeSong' src="assets/demo_samples/118_wo_hpss.wav" autoPlay loop></audio>
 
 
 
