@@ -18,6 +18,15 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 
 ### Samples
 <br />
+**Baseline**: ParallelWaveGAN trained with MAESTRO dataset
+
+**Ablation 1**: Proposed method without harmonic-percussive separator
+
+**Ablation 2**: Proposed method with reversed discriminators
+
+
+
+<br />
 
 <table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
 
