@@ -15,13 +15,9 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 
 ### Samples
 ---
-#### Small dataset 
+demo
 
-
-#### Large dataset - Seen speakers
-
-
-#####  Large dataset - Unseen speakers
+![Sample Audio](leejidsp.github.io/assets/demo_samples/118_wo_hpss.mp3)
 
 
 
