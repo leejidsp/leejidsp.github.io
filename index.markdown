@@ -50,10 +50,35 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 <td><audio controls style="width: 220px;"><source src='./assets/demo_samples/013_reverse.wav'></audio></td>
 </tr>
 
+<!--Sample 2-->
+<tr>
+<td style="column-width: 40px; padding-left: 10px; padding-right: 10px"><strong>Sample 2</strong></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/032_reference.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/032_proposed.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/032_baseline.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/032_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/032_reverse.wav'></audio></td>
+</tr>
 
+<!--Sample 2-->
+<tr>
+<td style="column-width: 40px; padding-left: 10px; padding-right: 10px"><strong>Sample 2</strong></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/035_reference.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/035_proposed.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/035_baseline.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/035_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/035_reverse.wav'></audio></td>
+</tr>
 
-
-
+<!--Sample 2-->
+<tr>
+<td style="column-width: 40px; padding-left: 10px; padding-right: 10px"><strong>Sample 2</strong></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/118_reference.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/118_proposed.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/118_baseline.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/118_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 220px;"><source src='./assets/demo_samples/118_reverse.wav'></audio></td>
+</tr>
 
 </table>
 
