@@ -8,7 +8,7 @@ layout: home
 
 # Adversarial Audio Synthesis using a Harmonic-Percussive Discriminator
 
-ICASSP 2022 submitted
+Submitted to ICASSP 2022 (Paper ID: 5617)
 
 <br />
 ### Authors
@@ -20,9 +20,9 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 <br />
 **Baseline**: ParallelWaveGAN trained with MAESTRO dataset
 
-**Ablation 1**: Proposed method without harmonic-percussive separator
+**Ablation 1**: Proposed method without a harmonic-percussive separator module
 
-**Ablation 2**: Proposed method with reversed discriminators
+**Ablation 2**: Proposed method switching the roles of the harmonic and percussive discriminators
 
 
 
@@ -92,6 +92,6 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 </table>
 
 
-	
+​	
 
 
