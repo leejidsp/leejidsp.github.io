@@ -60,11 +60,11 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <!--Sample 1-->
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 1</strong></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_baseline.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_proposed.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_wo_hpss.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reverse.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reverse.wav'></audio></td>
 </tr>
 
 <!--Sample 2-->
@@ -80,11 +80,11 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <!--Sample 2-->
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 3</strong></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_baseline.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_proposed.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_wo_hpss.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reverse.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reverse.wav'></audio></td>
 </tr>
 
 <!--Sample 2-->
