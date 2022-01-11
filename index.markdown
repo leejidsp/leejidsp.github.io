@@ -23,6 +23,7 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 <br />
 <img src="./assets/proposed.png"> 
 
+<br />
 
 
 In this paper, we propose a discriminator design scheme for a GAN-based audio signal generation model conditioned on T-F representations. Our proposed discriminator separates the audio signal into harmonic and percussive components and analyzes each component independently.
@@ -50,8 +51,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Proposed</strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Baseline</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Proposed</strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Abalation 1</strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Ablation 2</strong></td>
 </tr>
@@ -60,8 +61,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 1</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reverse.wav'></audio></td>
 </tr>
@@ -70,8 +71,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 2</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_reverse.wav'></audio></td>
 </tr>
@@ -80,8 +81,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 3</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reverse.wav'></audio></td>
 </tr>
@@ -90,8 +91,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 4</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_reverse.wav'></audio></td>
 </tr>
@@ -100,8 +101,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 5</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_reverse.wav'></audio></td>
 </tr>
@@ -109,8 +110,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 6</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_reverse.wav'></audio></td>
 </tr>
@@ -118,8 +119,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 7</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_reverse.wav'></audio></td>
 </tr>
@@ -127,8 +128,8 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 8</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_wo_hpss.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_reverse.wav'></audio></td>
 </tr>
