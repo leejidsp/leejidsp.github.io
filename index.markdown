@@ -16,9 +16,21 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 
 <br />
 
+
+
+### Proposed Method
+
+<br />
+<img src="./assets/proposed.png"> 
+
+
+
+
+
 ### Samples
 <br />
-**Baseline**: ParallelWaveGAN trained with MAESTRO dataset
+
+**Baseline**: ParallelWaveGAN trained with MAESTRO dataset (down-sampled to 16 kHz)
 
 **Ablation 1**: Proposed method without a harmonic-percussive separator module
 
@@ -42,26 +54,6 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 <!--Sample 1-->
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 1</strong></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/004_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/004_proposed.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/004_baseline.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/004_wo_hpss.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/004_reverse.wav'></audio></td>
-</tr>
-
-<!--Sample 2-->
-<tr>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 2</strong></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/013_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/013_proposed.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/013_baseline.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/013_wo_hpss.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/013_reverse.wav'></audio></td>
-</tr>
-
-<!--Sample 2-->
-<tr>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 3</strong></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_reference.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_proposed.wav'></audio></td>
 <td><audio controls style="width: 150px;"><source src='./assets/demo_samples/032_baseline.wav'></audio></td>
@@ -71,24 +63,70 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 
 <!--Sample 2-->
 <tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 2</strong></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/108_reverse.wav'></audio></td>
+</tr>
+
+<!--Sample 2-->
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 3</strong></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/074_reverse.wav'></audio></td>
+</tr>
+
+<!--Sample 2-->
+<tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 4</strong></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/035_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/035_proposed.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/035_baseline.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/035_wo_hpss.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/035_reverse.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/097_reverse.wav'></audio></td>
 </tr>
 
 <!--Sample 2-->
 <tr>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 5</strong></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/118_reference.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/118_proposed.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/118_baseline.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/118_wo_hpss.wav'></audio></td>
-<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/118_reverse.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/083_reverse.wav'></audio></td>
 </tr>
 
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 6</strong></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/066_reverse.wav'></audio></td>
+</tr>
+
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 7</strong></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/027_reverse.wav'></audio></td>
+</tr>
+
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Sample 8</strong></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_reference.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_proposed.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_baseline.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_wo_hpss.wav'></audio></td>
+<td><audio controls style="width: 150px;"><source src='./assets/demo_samples/052_reverse.wav'></audio></td>
+</tr>
 </table>
 
 
