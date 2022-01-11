@@ -53,7 +53,7 @@ Our method encourages the generator to better reconstruct harmonic and percussiv
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Baseline</strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Proposed</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Abalation 1</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Ablation 1</strong></td>
 <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Ablation 2</strong></td>
 </tr>
 
