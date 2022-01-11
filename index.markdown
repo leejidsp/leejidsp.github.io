@@ -25,9 +25,14 @@ Jihyun Lee, Hyeongsub Lim, Chanwoo Lee, Inseon Jang, Hong-Goo Kang
 
 
 
+In this paper, we propose a discriminator design scheme for a GAN-based audio signal generation model conditioned on T-F representations. Our proposed discriminator separates the audio signal into harmonic and percussive components and analyzes each component independently.
+By considering these time-frequency properties of both components, our discriminator design differentiates the receptive fields for each component and precisely detects the distortion of audio signals produced by the generator.
+Our method encourages the generator to better reconstruct harmonic and percussive features, which are critical for the quality of the generated signals.
+
 
 
 ### Samples
+
 <br />
 
 **Baseline**: ParallelWaveGAN trained with MAESTRO dataset (down-sampled to 16 kHz)
