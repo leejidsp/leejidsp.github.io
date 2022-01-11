@@ -31,6 +31,7 @@ By considering these time-frequency properties of both components, our discrimin
 Our method encourages the generator to better reconstruct harmonic and percussive features, which are critical for the quality of the generated signals.
 
 
+<br />
 
 ### Samples
 
