@@ -8,7 +8,7 @@ layout: home
 
 # Adversarial Audio Synthesis using a Harmonic-Percussive Discriminator
 
-Submitted to ICASSP 2022 (Paper ID: 5617)
+Accepted to ICASSP 2022
 
 <br />
 ### Authors
